@@ -1,7 +1,7 @@
 {
-  "name": "test-vue",
+  "name": "test-resume",
   "version": "1.0.0",
-  "description": "vuetest",
+  "description": "my resume project , it contacts unit",
   "author": "lk452584833 <452584833@qq.com>",
   "private": true,
   "scripts": {
